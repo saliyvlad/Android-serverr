@@ -15,7 +15,7 @@
 
 ---
 
-## 🏗 Архитектура
+## Архитектура
 ```
 [Android Telemetry Service] 
         │ (JSON over TCP:5555)
